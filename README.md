@@ -10,3 +10,4 @@ Incluyendo todos los ejercicios practicos adjuntos en la practica por el profeso
 -Calcular factorial
 -saludar usuario
 -menu interactivo
+Para ejecutar, descargue el archivo adjunto o copie el codigo que hay en el y ejecutelo en el editor deseado.
